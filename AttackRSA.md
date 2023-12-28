@@ -1,5 +1,4 @@
-![image](https://github.com/Caycon/RSA/assets/97203151/5a7014a5-1d97-41f3-b1d5-77bed1f795a3)
-![image](https://github.com/Caycon/RSA/assets/97203151/e4faea2c-3974-43ba-973c-17651343d839)
+![image](https://github.com/Caycon/RSA/assets/97203151/064b25b8-c6df-4f93-89e1-4ebc1f7bd08e)
 - Code python sử dụng phương pháp phân tích Fermat:
 ```Python
 import math
@@ -49,3 +48,8 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+![image](https://github.com/Caycon/RSA/assets/97203151/0bdb915b-c1f7-4ea7-a531-61d0cd25d241)
+![image](https://github.com/Caycon/RSA/assets/97203151/0e80b0bb-d5f8-4174-b04b-32e5752d684d)
+
+
+
