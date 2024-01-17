@@ -169,3 +169,6 @@ k= \frac{de- 1}{n}+ x(x \in \mathbb{N^*})\\
 \end{cases}$$
 - Ta sẽ tăng x lên cho đến khi nào tìm được $\phi(n)$ thỏa mãn.
 - Khi có được $\phi(n)$ ta có thể dễ dàng lấy được thông tin của các cá nhân khác nếu họ để lộ $e$ của họ.
+## Tài liệu tham khảo:
+- [RSA- boneh](https://github.com/Caycon/RSA/blob/main/boneh.pdf)
+- [An_introduction_to_mathematical_cryptography](https://github.com/Caycon/RSA/blob/main/An_introduction_to_mathematical_cryptography__PDFDrive_.pdf)
