@@ -84,19 +84,13 @@
 - Khi đó ta có biểu thức sau(Ta sẽ xét p> q):
 $$n= pq$$ $$<=>n= (\frac{p+q}{2})^ 2 (\frac{p-q}{2})^2$$(1)
 - Đặt:
-$$(2)\begin{cases}
-x+y& = 5\\ 
-x-y& = 3
-\end{cases}$$
+$$x+y& = 5 (2)$$ $$x-y& = 3 (2)$$ 
 - Từ (1)(2) suy ra:
 $$n= x^2+ y^2$$
 - Tới đây ta sử dụng phương pháp [Fermat Factor](https://en.wikipedia.org/wiki/Fermat's_factorization_method) để tìm  p, q.
 ###  Hastad's broadcast Attack
 - Với những bài toán RSA cho:
-$$\begin{cases}
-1\ e.\\
-nhiều\ cặp\ (c, n)\ tương\ ứng.
-\end{cases}$$
+$$1\ e.$$ $$nhiều\ cặp\ (c, n)\ tương\ ứng.$$
 - Loại bài toán này khá giống với `small public`, thế nên dựa vào cơ sở của `small public` và định lý `Thặng dư Trung Hoa` để giải quyết.
 - Tham khảo thêm [CopperSmith](https://en.wikipedia.org/wiki/Coppersmith%27s_attack)
 ### Wiener Attack
