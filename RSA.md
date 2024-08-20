@@ -112,10 +112,7 @@ $$d< \frac{1}{3}n^\frac{1}{4}$$
     $$ed \equiv 1 mod(\phi{(n)})$$ $$<=> ed= k\phi{(n)}\ (Với\ k \in \mathbb{Z})(1)$$ $$<=> \frac{e}{\phi{(n)}}= \frac{k}{d}+ \frac{1}{\phi{(n)}}(*)$$
     - Dựa vào (1) ta thấy rằng $ed \approx k \phi{(n)}$.
     - Mặt $\ne$:
-    $$\begin{cases}
-    \phi{(n)}= (p-1)(q-1)= n- p- q- 1\\
-    p+ q- 1< \sqrt{n}
-    \end{cases}$$
+    $$\phi{(n)}= (p-1)(q-1)= n- p- q- 1$$ $$p+ q- 1< \sqrt{n}$$
     - Từ đây ta suy ra:
     $$\frac{e}{n}- \frac{k}{d} \leq \frac{3k\sqrt{n}}{nd}$$ $$<=> \begin{cases} \frac{e}{\phi(n)}< 1\\ \frac{1}{d\phi(n)}< 1 \end{cases}$$ $$<=> \frac{k}{d}< 1$$ $$<=> d< k$$ $$=> \frac{e}{n}- \frac{k}{d}< \frac{1}{2d^2}$$.
     - Sử dụng dãy hội tụ của $\frac{e}{n}$ ta sẽ tìm được $\frac{k}{d}$.
